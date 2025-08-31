@@ -1,0 +1,7 @@
+---
+alwaysApply: true
+---
+项目说明: 这是一个CT医疗影像渲染系统
+技术框架: 此项目用的是 QT6、 VTK9.5 
+编译器: msbuild 17
+编译工具:cmake
